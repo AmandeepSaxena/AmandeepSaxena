@@ -10,5 +10,5 @@
   <code>
     <a href="https://www.linkedin.com/in/the-amandeep-saxena/" title="LinkedIn Profile"><img width="22"                            src="https://github.com/AmandeepSaxena/AmandeepSaxena/blob/master/images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.hackerrank.com/AmandeepSaxena" title="HackerRank Profile"><img width="22"     src="https://github.com/AmandeepSaxena/AmandeepSaxena/blob/master/images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://github.com/AmandeepSaxena/AmandeepSaxena/blob/master/images/wip_shapes2.gif" title="Website"><img width="22" src="hhttps://github.com/AmandeepSaxena/AmandeepSaxena/blob/master/images/website.png">Website</a></code>
+  <code><a href="https://github.com/AmandeepSaxena/AmandeepSaxena/blob/master/images/wip_shapes2.gif" title="Website"><img width="22" src="https://github.com/AmandeepSaxena/AmandeepSaxena/blob/master/images/website.png">Website</a></code>
 </h5>
