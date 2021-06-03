@@ -35,5 +35,15 @@
 <p align="center">
   <code><img title="C++" height="25" src="https://github.com/AmandeepSaxena/AmandeepSaxena/blob/master/images/c.png"></code>
   <code><img title="Python" height="25" src="https://github.com/AmandeepSaxena/AmandeepSaxena/blob/master/images/python.svg"></code>
+  <code><img title="C++" height="25" src="https://github.com/AmandeepSaxena/AmandeepSaxena/blob/master/images/c%2B%2B.png"></code>
+  <code><img title="Python" height="25" src="https://github.com/AmandeepSaxena/AmandeepSaxena/blob/master/images/python.png"></code>
+  <code><img title="Azure" height="25" src="https://github.com/AmandeepSaxena/AmandeepSaxena/blob/master/images/azure.png"></code>
+  <code><img title="Docker" height="25" src="https://github.com/AmandeepSaxena/AmandeepSaxena/blob/master/images/docker.png"></code>
+  <code><img title="Kubernetes" height="25" src="https://github.com/AmandeepSaxena/AmandeepSaxena/blob/master/images/kubernetes.png"></code>
+  <code><img title="Jenkins" height="25" src="https://github.com/AmandeepSaxena/AmandeepSaxena/blob/master/images/jenkins.png"></code>
+  <code><img title="Git" height="25" src="https://github.com/AmandeepSaxena/AmandeepSaxena/blob/master/images/git.png"></code>
+  <code><img title="Terraform" height="25" src="https://github.com/AmandeepSaxena/AmandeepSaxena/blob/master/images/terraform.png"></code>
+  <code><img title="Ansible" height="25" src="https://github.com/AmandeepSaxena/AmandeepSaxena/blob/master/images/ansible.png"></code>
+  <code><img title="VS Code" height="25" src="https://github.com/AmandeepSaxena/AmandeepSaxena/blob/master/images/vscode.png"></code>
 </p>
 <hr>
