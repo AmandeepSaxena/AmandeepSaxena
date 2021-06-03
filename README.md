@@ -41,7 +41,7 @@
   <code><img title="Jenkins" height="25" src="https://github.com/AmandeepSaxena/AmandeepSaxena/blob/master/images/jenkins.png"></code>
   <code><img title="Git" height="25" src="https://github.com/AmandeepSaxena/AmandeepSaxena/blob/master/images/git.png"></code>
   <code><img title="Terraform" height="25" src="https://github.com/AmandeepSaxena/AmandeepSaxena/blob/master/images/terraform.png"></code>
-  <code><img title="Ansible" height="25" src="https://github.com/AmandeepSaxena/AmandeepSaxena/blob/master/images/ansible.png"></code>
+  <code><img title="Ansible" height="25" src="https://github.com/AmandeepSaxena/AmandeepSaxena/blob/master/images/ansible.svg"></code>
   <code><img title="VS Code" height="25" src="https://github.com/AmandeepSaxena/AmandeepSaxena/blob/master/images/vscode.png"></code>
 </p>
 <hr>
