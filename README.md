@@ -34,6 +34,6 @@
 <br>
 <p align="center">
   <code><img title="C++" height="25" src="https://github.com/AmandeepSaxena/AmandeepSaxena/blob/master/images/c.png"></code>
-  <code><img title="Python" height="25" src="https://github.com/AmandeepSaxena/AmandeepSaxena/blob/master/images/python.png"></code>
+  <code><img title="Python" height="25" src="https://github.com/AmandeepSaxena/AmandeepSaxena/blob/master/images/python.svg"></code>
 </p>
 <hr>
