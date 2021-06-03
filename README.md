@@ -33,7 +33,7 @@
 <h2 align="center">🔥 Languages & Tools 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="C++" height="25" src="https://github.com/AmandeepSaxena/AmandeepSaxena/blob/master/images/c%2B%2B.png"></code>
-  <code><img title="Python" height="25" src="https://github.com/AmandeepSaxena/AmandeepSaxena/blob/master/images/azure.png"></code>
+  <code><img title="C++" height="25" src="https://github.com/AmandeepSaxena/AmandeepSaxena/blob/master/images/c.png"></code>
+  <code><img title="Python" height="25" src="https://github.com/AmandeepSaxena/AmandeepSaxena/blob/master/images/python.png"></code>
 </p>
 <hr>
