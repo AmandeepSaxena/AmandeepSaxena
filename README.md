@@ -75,7 +75,7 @@
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/AmandeepSaxena/Docker" title="Docker"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AmandeepSaxena&repo=Docker&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/AmandeepSaxena/AZ-104 MicrosoftAzureAdministrator" title="AZ-104-MicrosoftAzureAdministrator"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AmandeepSaxena&repo=AZ-104-MicrosoftAzureAdministrator&theme=react&border_color=61dafb&border_radius=10"></a>
+<!--   <a align="right" href="https://github.com/AmandeepSaxena/AZ-104 MicrosoftAzureAdministrator" title="AZ-104-MicrosoftAzureAdministrator"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AmandeepSaxena&repo=AZ-104-MicrosoftAzureAdministrator&theme=react&border_color=61dafb&border_radius=10"></a> -->
 </div>
 
 <br/><br/><br/><br/><br/><br/>
