@@ -14,7 +14,7 @@
 </h5>
 <br>
   <p align="center">
-    Hi, I'm Amandeep Saxema, DevOps Enigneer from India
+    Hi, I'm Amandeep Saxema, DevOps Engineer from India
     <br>
     <br>
     🔬 I'm currently working in Integra Connect as DevOps Engineer
