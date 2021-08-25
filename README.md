@@ -14,18 +14,18 @@
 </h5>
 <br>
   <p align="center">
-    Hi, I'm Amandeep Saxema, DevOps Engineer from India
+    Hi, I'm Amandeep Saxena, DevOps Engineer from India
     <br>
     <br>
     🔬 I'm currently working in Integra Connect as DevOps Engineer
     <br>
-    🎓 I graduated from University of Pteroleum & Energy Studies
+    🎓 I have graduated from University of Pteroleum & Energy Studies
     <br>
-    💻 I love writing code and learn anythings about it
+    💻 I love writing code and learn anything about it
     <br>
-    📚 I’m currently preparing for az-400 azure devops expert certification
+    📚 I have work experience in AWS,Jenkins,Ansible,Docker,K8S,Terraform and Azure DevOps
     <br>
-    💬 Ask me anything about from <a href="https://github.com/AmandeepSaxena/AmandeepSaxena/issues" title="Issues">Here</a>
+    💬 Ask me about anything from here <a href="https://github.com/AmandeepSaxena/AmandeepSaxena/issues" title="Issues">Here</a>
     <br>
     📫 How to reach me: <a href="mailto: damandeepsaxena@gmail.com">damandeepsaxena@gmail.com</a>
   </p>
