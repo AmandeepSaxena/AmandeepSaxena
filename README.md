@@ -25,7 +25,7 @@
     <br>
     📚 I have work experience in AWS,Jenkins,Ansible,Docker,K8S,Terraform and Azure DevOps
     <br>
-    💬 Ask me about anything from here <a href="https://github.com/AmandeepSaxena/AmandeepSaxena/issues" title="Issues">Here</a>
+    💬 Ask me about anything from <a href="https://github.com/AmandeepSaxena/AmandeepSaxena/issues" title="Issues">here</a>
     <br>
     📫 How to reach me: <a href="mailto: damandeepsaxena@gmail.com">damandeepsaxena@gmail.com</a>
   </p>
