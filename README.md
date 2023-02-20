@@ -17,13 +17,13 @@
     Hi, I'm Amandeep Saxena, DevOps Engineer from India
     <br>
     <br>
-    🔬 I'm currently working in Integra Connect as DevOps Engineer
+    🔬 I'm currently working in Razorpay as DevOps Engineer
     <br>
     🎓 I have graduated from University of Pteroleum & Energy Studies
     <br>
     💻 I love writing code and learn anything about it
     <br>
-    📚 I have work experience in AWS,Jenkins,Ansible,Docker,K8S,Terraform and Azure DevOps
+    📚 I have work experience in AWS,Jenkins,Ansible,Docker,K8S,Terraform and various CI/CD tools. 
     <br>
     💬 Ask me about anything from <a href="https://github.com/AmandeepSaxena/AmandeepSaxena/issues" title="Issues">here</a>
     <br>
